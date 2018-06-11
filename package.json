@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hunter-atk/The-Baconing-Web-Crawler#readme",
   "dependencies": {
-    "fetch": "^1.1.0"
+    "fetch": "^1.1.0",
+    "jsdom": "^11.11.0"
   }
 }
